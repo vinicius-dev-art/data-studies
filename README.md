@@ -38,11 +38,13 @@ python code01.py
 data/Titanic-Dataset-cleaned.csv
 
 ## 📂 Project Structure
+```text
 ├── code01.py
 ├── README.md
 └── data/
     ├── Titanic-Dataset.csv
     └── Titanic-Dataset-cleaned.csv
+```
 
 ## 🛠️ Technologies Used
 
